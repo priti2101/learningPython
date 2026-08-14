@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/priti2101/learningPython/tree/master/0013-roman-to-integer) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/priti2101/learningPython/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -37,4 +38,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/priti2101/learningPython/tree/master/0013-roman-to-integer) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/priti2101/learningPython/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/priti2101/learningPython/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
